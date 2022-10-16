@@ -9,8 +9,8 @@ contract MoodDiary {
     function getMood() public view returns(string memory){
         return mood;
     }
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> 13c66edae3e862c28099089540aeaf680d8dc76c
+
+
+
