@@ -1,3 +1,2 @@
-# My first Dapp(Decentralized App) 
+# My first Dapp using Ethers.js
 
-<h3> It logs out whatever mood you set.
